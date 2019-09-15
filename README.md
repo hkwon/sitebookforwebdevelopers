@@ -1,5 +1,5 @@
 # sitebookforwebdevelopers
-The list of useful websites for web developers
+A list of useful websites for web developers
 
 ## HTML
 - HTML validator (https://validator.w3.org/)
