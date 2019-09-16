@@ -9,6 +9,9 @@ A list of useful websites for web developers
 - Learing CSS flexbox (https://flexboxfroggy.com)
 - Open color is an open-source color scheme (https://yeun.github.io/open-color/)
 
+## CSS Animation
+- Transition and transform (https://thoughtbot.com/blog/transitions-and-transforms)
+
 ## Javascript
 - Airbnb JavaScript Style Guide (https://github.com/airbnb/javascript)
 
