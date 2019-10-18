@@ -25,6 +25,8 @@ A list of useful websites for web developers
 - Fake Online REST API for Testing and Prototyping (https://jsonplaceholder.typicode.com/)
 - Introduction to fetch() (https://developers.google.com/web/updates/2015/03/introduction-to-fetch)
 
+## JWT
+- https://www.notion.so/Where-to-store-tokens-3c86808f83cf4508bc9ff1e9db43cc02
 ## Etc
 - 안전한 패스워드 저장 (https://d2.naver.com/helloworld/318732)
 - 구글의 코드 리뷰 가이드 (https://soojin.ro/review/)
