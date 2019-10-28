@@ -8,6 +8,7 @@ A list of useful websites for web developers
 - CSS validator (https://jigsaw.w3.org/css-validator/)
 - Learing CSS flexbox (https://flexboxfroggy.com)
 - Open color is an open-source color scheme (https://yeun.github.io/open-color/)
+- 그림자, gradient 미리 확인 후 복사 (https://www.cssmatic.com/)
 
 ## CSS Animation
 - Transition and transform (https://thoughtbot.com/blog/transitions-and-transforms)
